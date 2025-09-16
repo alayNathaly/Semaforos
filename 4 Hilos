@@ -1,0 +1,3 @@
+¿Que sucede al utilizart 4 hilos en el codigo?
+Lo que sucese es que cada "objeto" es decir cada auto corre por si solo y no dependen de los demas a la hora de la carrera, ya que cada auto tiene su propio hilo y avanza sin depender del otro, 
+hasta que el juez de la orde a los audios de avanzar estos lo hacen, si solo se hubiera usado 1 hilo los autos irian uno detras del otro y dependerian del otro, se ejecutaria de forma secuencial.
